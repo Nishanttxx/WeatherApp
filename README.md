@@ -10,7 +10,7 @@ Get forecasts by city or current location — perfect for learning API integrati
 
 **WeatherApp** is a cross-platform mobile application built using **Flutter** and **Dart**. It integrates with a weather API (such as OpenWeatherMap) to fetch current weather data and display it in an intuitive user interface.
 
-Whether you’re learning Flutter, building your portfolio, or creating a utility app, this WeatherApp provides a solid starting point. :contentReference[oaicite:0]{index=0}
+
 
 ---
 
